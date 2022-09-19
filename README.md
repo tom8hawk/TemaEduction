@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftom8hawk%2FTemaEduction.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftom8hawk%2FTemaEduction?ref=badge_shield)
+
 Tema education telegram bot 👋👋👋 📌Чат-бот помощник в Telegram для сохранения фокуса в процессе обучения через рефлексию и постановку целей.
 
 Доступ к боту💡: @tema_education_bot
@@ -26,3 +28,6 @@ Tema education telegram bot 👋👋👋 📌Чат-бот помощник в T
 
 ведение только одного курса в одно время;
 Команды для пользователей📚: /start - начало занятий; /support - поддержка.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftom8hawk%2FTemaEduction.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftom8hawk%2FTemaEduction?ref=badge_large)
